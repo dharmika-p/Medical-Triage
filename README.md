@@ -142,12 +142,6 @@ Medical-Triage/
 
 ---
 
-## 🧑‍💻 Author
-
-**Dharmika Sai P**
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates how **LLM-guided safe reinforcement learning** can significantly improve decision-making in **critical healthcare systems**, ensuring both **performance and safety**.
